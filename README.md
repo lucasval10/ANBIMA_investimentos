@@ -1,4 +1,4 @@
-# Controle de Investimentos - Aplicativo Excel Interativo
+# Controle de Investimentos - Aplicativo Excel
 
 ## Introdução
 
