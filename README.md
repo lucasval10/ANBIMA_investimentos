@@ -11,7 +11,7 @@ este projeto oferece uma solução prática para quem deseja organizar suas fina
 - **Planilha Interativa**
 - **Cálculos Automáticos**: Todas as operações são realizadas automaticamente, sem a necessidade de intervenções manuais complexas.
 - **Carteiras Personalizadas**: Planeje seus investimentos em diferentes horizontes temporais e objetivos.
-- **Gráficos Intuitivos**: Visualize seu progresso e cenários futuros com gráficos claros e informativos.
+- **Gráficos Intuitivos**: Visualize seu progresso e controle com gráficos claros e informativos.
 
 ## Carteiras de Investimento
 
